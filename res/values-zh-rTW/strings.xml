@@ -100,7 +100,7 @@
     <string name="No">否</string>
     
         <!-- New folder/file dialog -->
-	    <string name="Enter_the_name">輸入命稱</string>
+	    <string name="Enter_the_name">輸入名稱</string>
 	    
 	    <!-- New connection Dialog -->
 	    <string name="Display_name">顯示名稱</string>
